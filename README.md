@@ -6,6 +6,11 @@ This project focuses on predicting the **probability** of injury in cricket play
 
 The model uses a combination of player **characteristics**, **short-term** and **long-term workload metrics**, **injury history**, and **match-related factors** to estimate injury risk as a percentage. These predictions are displayed through an interactive dashboard with real-time ML predictions.
 
+## Team
+- Pratul Gorde
+- Pranit Khodke
+- Prathamesh Hajare
+
 ## Architecture
 
 - **Frontend**: React + TypeScript + Vite + Tailwind CSS
@@ -33,7 +38,7 @@ https://github.com/user-attachments/assets/723bc8f0-cc5c-4926-b8f6-5ecb22217bee
 ## Setup
 
 ### Prerequisites
-- Node.js & npm - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- Node.js & npm 
 - Python 3.8+ with pip
 
 ### Installation Steps
@@ -135,7 +140,6 @@ The `train_model.py` script:
 - Vite
 - TypeScript
 - React
-- shadcn-ui
 - Tailwind CSS
 
 ### Backend
@@ -151,8 +155,3 @@ The `train_model.py` script:
 - Data-driven injury prevention and squad rotation decisions
 - Performance and sports analytics research
 - Team management and coaching support tools
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-⭐ If you found this project helpful, please consider giving it a star!
